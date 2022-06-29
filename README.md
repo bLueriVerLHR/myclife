@@ -1,2 +1,3 @@
-# myclife
-about my experience on c ... programmn=ing
+# My C ... life
+
+About my c ... programming life

@@ -1,0 +1,5 @@
+- [Home](/docs/tmp/README.md)
+- [冒泡排序](/docs/tmp/bubble_sort.md)
+- [计算类型数组对应的大小数组](/docs/tmp/calculate_type_array.md)
+- [打印素数](/docs/tmp/primes.md)
+- [检查是否含有type类型](/docs/tmp/sfinea_check_type.md)
